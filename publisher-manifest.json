@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8a57fe5c82a43f7b47fef694",
+  "owner": "dhhhtpkfd",
+  "repo": "page-51876dfd1e791f5390a4e7bd",
+  "title": "金龙鱼分站(CTC2)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "51876dfd1e791f5390a4e7bd",
+      "a": "金龙鱼分站(CTC2)",
+      "b": "机场官网线路发布页",
+      "entity": "金龙鱼分站(CTC2)",
+      "brand": "金龙鱼分站(CTC2)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b2680921c0fa6e5ce86531c09d161b650c44e588eac5e56a849f19cdb1acb683",
+      "content": {
+        "primary_entity": "金龙鱼分站(CTC2)",
+        "keyword1": "金龙鱼分站(CTC2)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，获取订阅后导入配置即可使用。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "立即对比套餐，配置适合你的订阅方案。",
+          "AI_CLOSING_TITLE": "选对方案，轻松加速",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开。基础版适合轻度使用，旗舰版提供 IPLC 专线与流媒体解锁，团队版支持 20 台设备并配备专属经理。查看适配要求后按客户端文档导入订阅即可。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，适合 1-3 台设备日常浏览；旗舰版 300GB 并支持 5 台设备，适合有多人共享或流媒体需求的用户。",
+          "AI_FAQ_ANSWER_2": "一个人日常使用选基础版足够；需要 IPLC 专线或全节点流媒体解锁，推荐旗舰版；团队用可选团队版。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。请根据同时在线设备数量选择对应套餐。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。按月付也可随时使用，灵活切换。",
+          "AI_FAQ_ANSWER_5": "先在设备上安装对应客户端，再将订阅地址导入配置即可使用。不同客户端导入方式略有不同，可参考客户端文档操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版流量差多少？",
+          "AI_FAQ_QUESTION_2": "我应该选哪个套餐？",
+          "AI_FAQ_QUESTION_3": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "如何配置使用订阅？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择到订阅周期，三点帮你快速定位。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按使用量选择。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TEXT_3": "年付基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量按需选",
+          "AI_FEATURE_TITLE_2": "设备数匹配",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "金龙鱼分站(CTC2)提供多档套餐，覆盖个人到团队需求，配合客户端订阅配置，轻松实现海外网络加速。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需加速",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月起，旗舰版 ¥35/月，团队版 ¥85/月，年付更优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和使用量，在基础版、旗舰版、团队版中对比选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备支持情况。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅地址，完成配置即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "金龙鱼分站(CTC2)套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cqzwj.cn",
+    "host": "cqzwj.cn"
+  },
+  "file_hashes": {
+    "index.html": "8e68c5ab3958ca736f19761dca26c4c06bce1c8a5fb86190bf233144cddab89f",
+    "sitemap.xml": "abdcc2ee44ff232ab74873705a65b82374c1ca0abce470694f21123321b7d0bf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6aa4eaf158e5019812e9593c1e647bc1af5f9f9e8d0a3fcae075fa783caa05f4",
+    "robots.txt": "a33f0b5c11702b651bbb5ada4654800abdffe01113ad22c7dfe320c23ddddeb7",
+    "8e6bf5ec99d70bef95263bffaa5c72b7.txt": "9694c55fac6cee73e92f472176e37a24662a82116ea804244a6eadc5937eb805"
+  },
+  "revision": "0d9da25c0e172111a13b13576b9ee89481bc5e6732c2e383b66a221500810527"
+}
